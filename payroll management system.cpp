@@ -304,6 +304,6 @@ void intro()
 	cout<<"\n\n\n\tPAYROLL";
 	cout<<"\n\n\tMANAGEMENT";
 	cout<<"\n\n\t  SYSTEM";
-	cout<<"\n\n\n\nMADE BY : SOUMIK MUKHERJEE";
+	cout<<"\n\n\n\nMADE BY : SEC1 GROUP:1";
 	getch();
 }
