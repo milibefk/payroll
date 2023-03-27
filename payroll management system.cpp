@@ -301,9 +301,9 @@ void remove_emp(int n)
 
 void intro()
 {
-	cout<<"\n\n\n\tPAYROLL";
-	cout<<"\n\n\tMANAGEMENT";
-	cout<<"\n\n\t  SYSTEM";
-	cout<<"\n\n\n\nMADE BY : SEC1 GROUP:1";
+	cout<<"\n\n\n\t PAYROLL";
+	cout<<"\n\n\t MANAGEMENT";
+	cout<<"\n\n\t  SYSTEM ";
+	cout<<"\n\n\n\n MADE BY : SEC1 GROUP:1";
 	getch();
 }
